@@ -1,0 +1,365 @@
+{
+    "characters": [
+      {
+        "name": "Albedo",
+        "image": "assets/character-albedo-card.png"
+      },
+      {
+        "name": "Alhaitham",
+        "image": "assets/character-alhaitham-card.png"
+      },
+      {
+        "name": "Aloy",
+        "image": "assets/character-aloy-card.png"
+      },
+      {
+        "name": "Amber",
+        "image": "assets/character-amber-card.png"
+      },
+      {
+        "name": "Arlecchino",
+        "image": "assets/character-arlecchino-card.png"
+      },
+      {
+        "name": "Ayaka",
+        "image": "assets/character-ayaka-card.png"
+      },
+      {
+        "name": "Ayato",
+        "image": "assets/character-ayato-card.png"
+      },
+      {
+        "name": "Baizhu",
+        "image": "assets/character-baizhu-card.png"
+      },
+      {
+        "name": "Barbara",
+        "image": "./assets/character-barbara-card.png"
+      },
+      {
+        "name": "Beidou",
+        "image": "assets/character-beidou-card.png"
+      },
+      {
+        "name": "Bennett",
+        "image": "assets/character-bennett-card.png"
+      },
+      {
+        "name": "Candace",
+        "image": "assets/character-candace-card.png"
+      },
+      {
+        "name": "Charlotte",
+        "image": "assets/character-charlotte-card.png"
+      },
+      {
+        "name": "Chevreuse",
+        "image": "assets/character-chevreuse-card.png"
+      },
+      {
+        "name": "Chiori",
+        "image": "assets/character-chiori-card.png"
+      },
+      {
+        "name": "Chongyun",
+        "image": "assets/character-chongyun-card.png"
+      },
+      {
+        "name": "Clorinde",
+        "image": "assets/character-clorinde-card.png"
+      },
+      {
+        "name": "Collei",
+        "image": "assets/character-collei-card.png"
+      },
+      {
+        "name": "Cyno",
+        "image": "assets/character-cyno-card.png"
+      },
+      {
+        "name": "Dehya",
+        "image": "assets/character-dehya-card.png"
+      },
+      {
+        "name": "Diluc",
+        "image": "assets/character-diluc-card.png"
+      },
+      {
+        "name": "Diona",
+        "image": "assets/character-diona-card.png"
+      },
+      {
+        "name": "Dori",
+        "image": "assets/character-dori-card.png"
+      },
+      {
+        "name": "Emilie",
+        "image": "assets/character-emilie-card.png"
+      },
+      {
+        "name": "Eula",
+        "image": "assets/character-eula-card.png"
+      },
+      {
+        "name": "Faruzan",
+        "image": "assets/character-faruzan-card.png"
+      },
+      {
+        "name": "Fischl",
+        "image": "assets/character-fischl-card.png"
+      },
+      {
+        "name": "Freminet",
+        "image": "assets/character-freminet-card.png"
+      },
+      {
+        "name": "Furina",
+        "image": "assets/character-furina-card.png"
+      },
+      {
+        "name": "Gaming",
+        "image": "assets/character-gaming-card.png"
+      },
+      {
+        "name": "Ganyu",
+        "image": "assets/character-ganyu-card.png"
+      },
+      {
+        "name": "Gorou",
+        "image": "assets/character-gorou-card.png"
+      },
+      {
+        "name": "Heizou",
+        "image": "assets/character-shikanoin-heizou-card.png"
+      },
+      {
+        "name": "Hu Tao",
+        "image": "assets/character-hu-tao-card.png"
+      },
+      {
+        "name": "Itto",
+        "image": "assets/character-arataki-itto-card.png"
+      },
+      {
+        "name": "Jean",
+        "image": "assets/character-jean-card.png"
+      },
+      {
+        "name": "Kachina",
+        "image": "assets/character-kachina-card.png"
+      },
+      {
+        "name": "Kaeya",
+        "image": "assets/character-kaeya-card.png"
+      },
+      {
+        "name": "Kaveh",
+        "image": "assets/character-kaveh-card.png"
+      },
+      {
+        "name": "Kazuha",
+        "image": "assets/character-kazuha-card.png"
+      },
+      {
+        "name": "Keqing",
+        "image": "assets/character-keqing-card.png"
+      },
+      {
+        "name": "Kinich",
+        "image": "assets/character-kinich-card.png"
+      },
+      {
+        "name": "Kirara",
+        "image": "assets/character-kirara-card.png"
+      },
+      {
+        "name": "Klee",
+        "image": "assets/character-klee-card.png"
+      },
+      {
+        "name": "Kokomi",
+        "image": "assets/character-sangonomiya-kokomi-card.png"
+      },
+      {
+        "name": "Layla",
+        "image": "assets/character-layla-card.png"
+      },
+      {
+        "name": "Lisa",
+        "image": "assets/character-lisa-card.png"
+      },
+      {
+        "name": "Lynette",
+        "image": "assets/character-lynette-card.png"
+      },
+      {
+        "name": "Lyney",
+        "image": "assets/character-lyney-card.png"
+      },
+      {
+        "name": "Mika",
+        "image": "assets/character-mika-card.png"
+      },
+      {
+        "name": "Mona",
+        "image": "assets/character-mona-card.png"
+      },
+      {
+        "name": "Mualani",
+        "image": "assets/character-mualani-card.png"
+      },
+      {
+        "name": "Nahida",
+        "image": "assets/character-nahida-card.png"
+      },
+      {
+        "name": "Navia",
+        "image": "assets/character-navia-card.png"
+      },
+      {
+        "name": "Neuvillette",
+        "image": "assets/character-neuvillette-card.png"
+      },
+      {
+        "name": "Nilou",
+        "image": "assets/character-nilou-card.png"
+      },
+      {
+        "name": "Ningguang",
+        "image": "assets/character-ningguang-card.png"
+      },
+      {
+        "name": "Noelle",
+        "image": "assets/character-noelle-card.png"
+      },
+      {
+        "name": "Qiqi",
+        "image": "assets/character-qiqi-card.png"
+      },
+      {
+        "name": "Raiden Shogun",
+        "image": "assets/character-raiden-shogun-card.png"
+      },
+      {
+        "name": "Razor",
+        "image": "assets/character-razor-card.png"
+      },
+      {
+        "name": "Rosaria",
+        "image": "assets/character-rosaria-card.png"
+      },
+      {
+        "name": "Kujou Sara",
+        "image": "assets/character-kujou-sara-card.png"
+      },
+      {
+        "name": "Sayu",
+        "image": "assets/character-sayu-card.png"
+      },
+      {
+        "name": "Sethos",
+        "image": "assets/character-sethos-card.png"
+      },
+      {
+        "name": "Shenhe",
+        "image": "assets/character-shenhe-card.png"
+      },
+      {
+        "name": "Kuki Shinobu",
+        "image": "assets/character-kuki-shinobu-card.png"
+      },
+      {
+        "name": "Sigewinne",
+        "image": "assets/character-sigewinne-card.png"
+      },
+      {
+        "name": "Sucrose",
+        "image": "assets/character-sucrose-card.png"
+      },
+      {
+        "name": "Tartaglia",
+        "image": "assets/character-tartaglia-card.png"
+      },
+      {
+        "name": "Thoma",
+        "image": "assets/character-thoma-card.png"
+      },
+      {
+        "name": "Tighnari",
+        "image": "assets/character-tighnari-card.png"
+      },
+      {
+        "name": "Lumine",
+        "image": "assets/character-lumine-card.png"
+      },
+      {
+        "name": "Aether",
+        "image": "assets/character-aether-card.png"
+      },
+      {
+        "name": "Venti",
+        "image": "assets/character-venti-card.png"
+      },
+      {
+        "name": "Wanderer",
+        "image": "assets/character-wanderer-card.png"
+      },
+      {
+        "name": "Wriothesley",
+        "image": "assets/character-wriothesley-card.png"
+      },
+      {
+        "name": "Xiangling",
+        "image": "assets/character-xiangling-card.png"
+      },
+      {
+        "name": "Xianyun",
+        "image": "assets/character-xianyun-card.png"
+      },
+      {
+        "name": "Xiao",
+        "image": "assets/character-xiao-card.png"
+      },
+      {
+        "name": "Xilonen",
+        "image": "assets/character-xilonen-card.png"
+      },
+      {
+        "name": "Xingqiu",
+        "image": "assets/character-xingqiu-card.png"
+      },
+      {
+        "name": "Xinyan",
+        "image": "assets/character-xinyan-card.png"
+      },
+      {
+        "name": "Yae Miko",
+        "image": "assets/character-yae-miko-card.png"
+      },
+      {
+        "name": "Yanfei",
+        "image": "assets/character-yanfei-card.png"
+      },
+      {
+        "name": "Yaoyao",
+        "image": "assets/character-yaoyao-card.png"
+      },
+      {
+        "name": "Yelan",
+        "image": "assets/character-yelan-card.png"
+      },
+      {
+        "name": "Yoimiya",
+        "image": "assets/character-yoimiya-card.png"
+      },
+      {
+        "name": "Yun Jin",
+        "image": "assets/character-yun-jin-card.png"
+      },
+      {
+        "name": "Zhongli",
+        "image": "assets/character-zhongli-card.png"
+      }
+    ]
+  }
+  

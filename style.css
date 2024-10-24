@@ -1,0 +1,110 @@
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url(/assets/wp7694871-genshin-impact-2020-wallpapers.jpg);
+    display: flex;
+    flex-direction: column;
+}
+
+/* Add this CSS to your styles */
+@keyframes shake {
+    0% { transform: translate(0); }
+    25% { transform: translate(-5px); }
+    50% { transform: translate(5px); }
+    75% { transform: translate(-5px); }
+    100% { transform: translate(0); }
+}
+
+.search-input {
+    transition: border-color 0.3s ease; /* Smooth border transition */
+}
+
+.shake {
+    animation: shake 0.5s; /* Shake for 0.5 seconds */
+}
+
+.border-error {
+    border: 2px solid red; /* Red border for error */
+}
+
+.timer {
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    font-size: 24px;
+    z-index: 10; /* Keep it above other elements */
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.character-container {
+    width: 100%;
+    height: calc(100vh - 80px); /* Adjust height to account for the search bar */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 60px; /* Add margin at the bottom */
+}
+
+.character-card {
+    position: relative;
+    width: 200px; /* Adjust based on image size */
+    height: 320px; /* Adjust based on image size */
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #100;
+    overflow: hidden;
+    transition: border 0.3s ease
+}
+
+.character-name {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.5); /* Optional for better visibility */
+    padding: 8px 0;
+    z-index: -1;
+}
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    position: fixed; /* Fix the position at the bottom */
+    bottom: 10px; /* Distance from the bottom */
+    left: 50%;
+    transform: translateX(-50%); /* Center it horizontally */
+    z-index: 10; /* Higher z-index to stay above other content */
+    background: rgba(255, 255, 255, 0.9); /* Optional: Add a background for better visibility */
+    padding: 10px; /* Optional: Add padding */
+    border-radius: 5px; /* Optional: Add rounded corners */
+}
+
+#nameInput {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#searchButton {
+    padding: 10px;
+    font-size: 16px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
