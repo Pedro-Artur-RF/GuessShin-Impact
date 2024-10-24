@@ -8,7 +8,6 @@ body {
     flex-direction: column;
 }
 
-/* Add this CSS to your styles */
 @keyframes shake {
     0% { transform: translate(0); }
     25% { transform: translate(-5px); }
@@ -41,7 +40,7 @@ body {
 
 .character-container {
     width: 100%;
-    height: calc(100vh - 80px); /* Adjust height to account for the search bar */
+    height: calc(100vh - 80px); 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -52,8 +51,8 @@ body {
 
 .character-card {
     position: relative;
-    width: 200px; /* Adjust based on image size */
-    height: 320px; /* Adjust based on image size */
+    width: 200px; 
+    height: 320px;
     background-size: cover;
     background-position: center;
     border: 1px solid #100;
@@ -68,22 +67,21 @@ body {
     right: 0;
     text-align: center;
     color: white;
-    background: rgba(0, 0, 0, 0.5); /* Optional for better visibility */
-    padding: 8px 0;
+    background: rgba(0, 0, 0, 0.5);     padding: 8px 0;
     z-index: -1;
 }
 
 .search-form {
     display: flex;
     justify-content: center;
-    position: fixed; /* Fix the position at the bottom */
-    bottom: 10px; /* Distance from the bottom */
+    position: fixed; 
+    bottom: 10px; 
     left: 50%;
-    transform: translateX(-50%); /* Center it horizontally */
-    z-index: 10; /* Higher z-index to stay above other content */
-    background: rgba(255, 255, 255, 0.9); /* Optional: Add a background for better visibility */
+    transform: translateX(-50%); 
+    z-index: 10; 
+    background: rgba(255, 255, 255, 0.9); 
     padding: 10px; /* Optional: Add padding */
-    border-radius: 5px; /* Optional: Add rounded corners */
+    border-radius: 5px; 
 }
 
 #nameInput {
